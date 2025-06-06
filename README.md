@@ -1,21 +1,22 @@
-👋 <b>Hi, I’m Christopher Lim!</b>
+👋 **Hi, I’m Christopher Lim**
 
-🎯 <b>About Me</b>
-<p>I'm a Lead QA Engineer with over 6 years of experience ensuring software quality, leading QA teams, and building robust automation frameworks. I also have a passion for software development, with hands-on expertise in Ruby on Rails, Cypress, and Python.</p>
+I’m a lifelong learner, builder, and family man with nearly a decade of experience across software quality assurance, product development, and startups. I’m passionate about making technology approachable, meaningful, and rooted in real human needs.
 
-💻 <b>What I Do</b>
-- Build scalable test automation frameworks for mobile and web applications.
-- Mentor QA teams to achieve high performance and efficiency.
-- Develop backend services and web applications with clean code and best practices.
+My journey began in healthcare, but I quickly found my calling in tech—starting in QA and automation, and gradually moving into software development. Today, I’m focused on building purposeful web apps using **Ruby on Rails 8**, **Hotwire**, and **StimulusJS**, while still applying the same discipline and clarity I learned from years of testing and leading QA teams.
 
-🔧 <b>Tech Stack</b>
-<p>Cypress | Selenium | Postman | RSpec | Rest Assured | Ruby on Rails | Java | Python | React | MongoDB | PostgreSQL | SQLlite | AWS | Go | NodeJS | NestJS | Docker</p>
+💻 **What I Do Now**  
+- Building **Devout**, a prayer and rosary tracker that blends faith and technology  
+- Designing responsive UI/UX with **Tailwind CSS** and enhancing interactivity with **StimulusJS**  
+- Leading QA strategy, automation, and team mentorship in software projects  
+- Writing clean, scalable code and iterating with a balance of speed and care  
 
-🖥️ <b>Operating Systems</b>
-<p>Linux | Mac | Windows </p>
+🔧 **Tech Stack**  
+Ruby on Rails · Hotwire (Turbo + Stimulus) · Tailwind CSS · Cypress · Selenium · Postman · RSpec · Python · PostgreSQL · SQLite · Docker · AWS
 
-🌱 <b>What I’m Working On</b>
-<p>I am currently exploring cybersecurity and enhancing my skills in Ruby development.</p>
+🛠 **Beyond the Code**  
+I believe in clear communication, continuous improvement, and staying grounded in family and faith. Whether I’m shipping features or teaching my kids how to code, I build with purpose and care.
 
-📬 <b>Get in Touch</b>
-<p>Let’s connect! I’m always open to collaborations and new opportunities.</p>
+📬 **Let’s Connect**  
+This site is where I share thoughts on software, fitness, faith, and building things that matter. If you’re into web and app ideas, continuous learning, or value-centered tech—welcome home.
+
+👉 Check out my [Portfolio](https://github.com/clim-bot?tab=repositories) to see what I’ve been building!
