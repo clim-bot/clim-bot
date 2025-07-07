@@ -1,22 +1,57 @@
-👋 **Hi, I’m Christopher Lim**
+# Hey there! 👋 I'm Chris
 
-I’m a lifelong learner, builder, and family man with nearly a decade of experience across software quality assurance, product development, and startups. I’m passionate about making technology approachable, meaningful, and rooted in real human needs.
+Welcome to my GitHub profile! I'm passionate about learning and building with modern web and game development technologies.
 
-My journey began in healthcare, but I quickly found my calling in tech—starting in QA and automation, and gradually moving into software development. Today, I’m focused on building purposeful web apps using **Ruby on Rails 8**, **Hotwire**, and **StimulusJS**, while still applying the same discipline and clarity I learned from years of testing and leading QA teams.
+## 🚀 What I'm Learning
 
-💻 **What I Do Now**  
-- Building **Devout**, a prayer and rosary tracker that blends faith and technology  
-- Designing responsive UI/UX with **Tailwind CSS** and enhancing interactivity with **StimulusJS**  
-- Leading QA strategy, automation, and team mentorship in software projects  
-- Writing clean, scalable code and iterating with a balance of speed and care  
+### Web Development Stack
+- **Ruby on Rails** - Building robust web applications with this powerful framework
+- **Hotwire Turbo** - Creating reactive, SPA-like experiences without writing JavaScript
+- **Hotwire Native for iOS** - Bridging the gap between web and native mobile apps
 
-🔧 **Tech Stack**  
-Ruby on Rails · Hotwire (Turbo + Stimulus) · Tailwind CSS · Cypress · Selenium · Postman · RSpec · Python · PostgreSQL · SQLite · Docker · AWS
+### Game Development
+- **Unity** - Exploring game development and interactive experiences
 
-🛠 **Beyond the Code**  
-I believe in clear communication, continuous improvement, and staying grounded in family and faith. Whether I’m shipping features or teaching my kids how to code, I build with purpose and care.
+## 🌱 Current Focus
 
-📬 **Let’s Connect**  
-This site is where I share thoughts on software, fitness, faith, and building things that matter. If you’re into web and app ideas, continuous learning, or value-centered tech—welcome home.
+I'm currently diving deep into:
+- Building full-stack applications with Rails and Hotwire
+- Understanding the Turbo Frame and Turbo Stream concepts
+- Creating iOS apps that leverage my web stack knowledge
+- Learning C# for Unity game development
+- Experimenting with 2D and 3D game mechanics
 
-👉 Check out my [Portfolio](https://github.com/clim-bot?tab=repositories) to see what I’ve been building!
+## 💡 Projects I'm Working On
+
+- 🌐 **Rails + Hotwire Apps** - Building reactive web applications without the complexity of traditional SPAs
+- 📱 **Hotwire Native iOS Apps** - Converting web apps into native iOS experiences
+- 🎮 **Unity Games** - Creating fun, interactive games while learning game design principles
+
+## 📚 Resources I Love
+
+### Rails & Hotwire
+- [Ruby on Rails Guides](https://guides.rubyonrails.org/)
+- [Hotwire Handbook](https://www.hotwire.dev/)
+- [Turbo Native Documentation](https://github.com/hotwired/turbo-ios)
+
+### Unity
+- [Unity Learn](https://learn.unity.com/)
+- [Brackeys YouTube Archive](https://www.youtube.com/c/Brackeys)
+
+## 🤝 Let's Connect!
+
+I'm always excited to:
+- Collaborate on Rails or Unity projects
+- Learn from other developers
+- Share knowledge and resources
+- Build cool stuff together!
+
+Feel free to reach out if you want to discuss web development, mobile apps, or game development!
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clim-bot&show_icons=true&theme=radical)
+
+---
+
+⭐️ From [clim-bot](https://github.com/clim-bot)
