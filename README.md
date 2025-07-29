@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about learning and building with modern web and game development technologies.
 
-## 🚀 What I'm Learning
+## What I'm Learning
 
 ### Web Development Stack
 - **Ruby on Rails** - Building robust web applications with this powerful framework
@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about learning and building with mo
 ### Game Development
 - **Unity** - Exploring game development and interactive experiences
 
-## 🌱 Current Focus
+## Current Focus
 
 I'm currently diving deep into:
 - Building full-stack applications with Rails and Hotwire
@@ -21,13 +21,13 @@ I'm currently diving deep into:
 - Learning C# for Unity game development
 - Experimenting with 2D and 3D game mechanics
 
-## 💡 Projects I'm Working On
+## Projects I'm Working On
 
-- 🌐 **Rails + Hotwire Apps** - Building reactive web applications without the complexity of traditional SPAs
-- 📱 **Hotwire Native iOS Apps** - Converting web apps into native iOS experiences
-- 🎮 **Unity Games** - Creating fun, interactive games while learning game design principles
+- **Rails + Hotwire Apps** - Building reactive web applications without the complexity of traditional SPAs
+- **Hotwire Native iOS Apps** - Converting web apps into native iOS experiences
+- **Unity Games** - Creating fun, interactive games while learning game design principles
 
-## 📚 Resources I Love
+## Resources I Love
 
 ### Rails & Hotwire
 - [Ruby on Rails Guides](https://guides.rubyonrails.org/)
@@ -38,7 +38,7 @@ I'm currently diving deep into:
 - [Unity Learn](https://learn.unity.com/)
 - [Brackeys YouTube Archive](https://www.youtube.com/c/Brackeys)
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
 I'm always excited to:
 - Collaborate on Rails or Unity projects
@@ -48,10 +48,10 @@ I'm always excited to:
 
 Feel free to reach out if you want to discuss web development, mobile apps, or game development!
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clim-bot&show_icons=true&theme=radical)
 
 ---
 
-⭐️ From [clim-bot](https://github.com/clim-bot)
+From [clim-bot](https://github.com/clim-bot)
